@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Arudino_Wifi)(type Legacy)(uri E:/文档/PCB_WorkSpace/Arduino_Rev2/Arudino_Wifi.lib)(options "")(descr ""))
+  (lib (name arduino_wifi-rescue)(type Legacy)(uri ${KIPRJMOD}/arduino_wifi-rescue.lib)(options "")(descr ""))
+)
